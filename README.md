@@ -2,7 +2,7 @@ Hello my name is José Roberto and I am from Brazil (🇧🇷) in the city of Ri
 
 - 👋 Hi, I’m @JrzenonDev
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning React, React Native, SEO
+- 🌱 I’m currently learning React, React Native, Vue JS, Node JS, SEO
 - 💞️ I’m looking to collaborate on Front-End
 - 📫 How to reach me jrobertoonb@gmail.com
 
